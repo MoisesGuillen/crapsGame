@@ -1,4 +1,4 @@
-# Craps Game 🎲
+# Craps Game (V 0.1)🎲
 
 A command-line Craps game written in C++.
 
