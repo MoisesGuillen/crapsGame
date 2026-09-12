@@ -1,6 +1,6 @@
 # Craps Game (V 0.1)🎲
 
-A command-line Craps game written in C++.
+A command-line Craps game written in C++
 
 ## Features
 
@@ -25,4 +25,4 @@ g++ -std=c++23 main.cpp -o craps
 ## About
 
 **Author:** Moises Guillen
-**Date:** September 9, 2026
+**Date:** September 11, 2026
